@@ -82,12 +82,13 @@ export const skillCategories: SkillCategory[] = [
       'React',
       'Next.js',
       'Tailwind CSS',
+      'Bootstrap',
       'HTML5 / CSS3',
     ],
   },
   {
     title: 'Backend & Database',
-    items: ['MongoDB', 'Node.js', 'REST API'],
+    items: ['MongoDB', 'Node.js', 'REST API', 'Express', 'java', 'mysql'],
   },
   {
     title: 'Tools & DevOps',
@@ -98,7 +99,7 @@ export const skillCategories: SkillCategory[] = [
       'Vercel',
       'Vite',
       'Proxmox',
-      'AI Tools (Cursor, Lovable)',
+      'AI Tools (Cursor, Lovable, Vercel, )',
     ],
   },
 ]
